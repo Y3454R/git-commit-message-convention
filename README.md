@@ -120,6 +120,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :bookmark:                 | `:bookmark:`                 | `release`          | **tagged** with version label |
 | :back:                     | `:back:`                     | `revert`           | **revert** commiting |
 | :construction:             | `:construction:`             | `wip`              | **WIP** commiting |
+| :ghost:                    | `:ghost:`                    | `chores`           | **do** something |
 
 
 Ask to Be [Creative](http://www.emoji-cheat-sheet.com/)!
